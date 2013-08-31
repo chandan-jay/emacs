@@ -46,3 +46,6 @@
 
 ;; To check effect load ~/.emacs
 ;; M-x load-file 
+
+; Disable the splash screen
+(setq inhibit-splash-screen t)
